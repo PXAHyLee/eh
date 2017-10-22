@@ -1,0 +1,5 @@
+BasedOnStyle: Google
+AccessModifierOffset: -3
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+IndentWidth: 4
